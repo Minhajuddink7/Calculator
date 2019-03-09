@@ -102,7 +102,7 @@ function brackets() {
 
     }
     else if(i==1){
-        input_var.value+=')';
+        input_var.value +=')';
         i=0;
 
 
